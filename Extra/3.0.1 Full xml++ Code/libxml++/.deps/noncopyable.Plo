@@ -1,0 +1,6 @@
+noncopyable.lo: noncopyable.cc /usr/include/stdc-predef.h \
+ ../libxml++/noncopyable.h
+
+/usr/include/stdc-predef.h:
+
+../libxml++/noncopyable.h:
