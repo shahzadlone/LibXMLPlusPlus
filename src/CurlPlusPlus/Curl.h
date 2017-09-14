@@ -1,9 +1,9 @@
-#ifndef CURL_H
-#define CURL_H
+# ifndef CURL_H
+# define CURL_H
 
-#include <string>
-#include <curl/curl.h>
-#include <cstdlib>
+# include <string>
+# include <curl/curl.h>
+# include <cstdlib>
 
 namespace curlcpp {
 
