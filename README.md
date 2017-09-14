@@ -16,3 +16,10 @@ Takes one argument: [URL-Containing-XML-To-Parse]
 ```
     WHERE:
           [URL-Containing-XML-To-Parse] : is a URL you wish to curl and the parse using the libxml++ wrapper.
+
+------------------------
+Example:
+------------------------
+```sh
+./XML++ file:///home/shahzad/Desktop/Repo_Clones/XMLPlusPlus/manifest.mpd
+```
