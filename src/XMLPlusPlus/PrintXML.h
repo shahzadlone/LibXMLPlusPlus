@@ -1,3 +1,6 @@
+#ifndef PRINTXML_H
+#define PRINTXML_H
+
 #include <libxml++/libxml++.h>
 
 namespace xmlhelp { 
@@ -6,3 +9,5 @@ namespace xmlhelp {
     void PrintNode( const xmlpp::Node * node, unsigned int indentation = 0 ); 
 
 }
+
+#endif // End of Header Guard for PRINTXML_H
