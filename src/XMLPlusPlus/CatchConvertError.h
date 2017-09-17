@@ -1,3 +1,6 @@
+#ifndef CATCHCONVERTERROR_H
+#define CATCHCONVERTERROR_H
+
 #include <glibmm/ustring.h>
 #include <iostream>
 
@@ -25,3 +28,5 @@ namespace xmlhelp {
     std::ostream& operator<<( std::ostream & os, const CatchConvertError & utf8_string );
 
 } // End Brace of namespace xmlhelp.
+
+#endif // End of Header Guard for CATCHCONVERTERROR_H
