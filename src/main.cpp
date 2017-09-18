@@ -25,7 +25,7 @@ int main( int argc, char* argv[] ) {
     string curlResult = curlcpp::Curl( argv[1] );
 
     // Start Parsing XML
-    cout << " ============[Start Parsing with XML++ ]============" << endl; 
+    cout << " ==================[Start Parsing with XML++ ]==================" << endl; 
     
     // Create our DomParser Object.
     DomParser parser;
@@ -47,7 +47,7 @@ int main( int argc, char* argv[] ) {
     }
 
     // Done Parsing XML
-    cout << " ============[DONE Parsing with XML++ ]============" << endl; 
+    cout << " ==================[DONE Parsing with XML++ ]==================" << endl; 
 
     return ( EXIT_SUCCESS );
 }
