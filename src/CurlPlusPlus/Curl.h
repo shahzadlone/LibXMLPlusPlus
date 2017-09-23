@@ -33,4 +33,4 @@ namespace curlcpp {
 
 } // Closing Brace of namespace curlcpp
 
-#endif // End of Guard
+# endif // End of Guard for CURL_H
