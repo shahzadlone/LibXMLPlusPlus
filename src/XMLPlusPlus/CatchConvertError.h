@@ -1,8 +1,8 @@
-#ifndef CATCHCONVERTERROR_H
-#define CATCHCONVERTERROR_H
+# ifndef CATCHCONVERTERROR_H
+# define CATCHCONVERTERROR_H
 
-#include <glibmm/ustring.h>
-#include <iostream>
+# include <glibmm/ustring.h>
+# include <iostream>
 
 namespace xmlhelp {
     
@@ -29,4 +29,4 @@ namespace xmlhelp {
 
 } // End Brace of namespace xmlhelp.
 
-#endif // End of Header Guard for CATCHCONVERTERROR_H
+# endif // End of Header Guard for CATCHCONVERTERROR_H
