@@ -24,7 +24,7 @@
          <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main" />
          <SegmentTemplate initialization="$RepresentationID$/init.mp4" media="$RepresentationID$/t$Time$.m4s" timescale="90000">
 <SegmentTimeline>
-<S d="180000" r="149" t="135487434420000" />
+<S d="180000" r="149" n="blah" t="135487434420000" />
 </SegmentTimeline>
 </SegmentTemplate>
          <Representation bandwidth="300000" codecs="avc1.64001e" frameRate="60/2" height="360" id="V300" sar="1:1" width="640" />
