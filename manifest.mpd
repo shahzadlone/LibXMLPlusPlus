@@ -9,7 +9,7 @@
          <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main" />
          <SegmentTemplate initialization="$RepresentationID$/init.mp4" media="$RepresentationID$/t$Time$.m4s" timescale="48000">
 <SegmentTimeline>
-<S d="95232" r="1" t="72259965023232" />
+<S d="95232" r="1" t="7225923965023232" />
 <S d="96256" />
 <S d="95232" r="2" />
 <S d="96256" />
