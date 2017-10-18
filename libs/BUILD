@@ -1,2 +1,2 @@
 
-cc_library
+cc_library()
