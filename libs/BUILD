@@ -1,2 +1,4 @@
 
-cc_library()
+cc_library(
+ name = "src",
+)
