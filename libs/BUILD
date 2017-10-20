@@ -1,5 +1,5 @@
 
 cc_library(
     name = "libs",
-    visibility = ,
+    visibility = ["//visibility:public"],
 )
