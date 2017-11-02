@@ -1,2 +1,3 @@
-
-cc_bin
+cc_library(
+    name = "CurlPlusPlus",
+)
