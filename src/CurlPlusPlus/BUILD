@@ -1,4 +1,4 @@
 cc_library(
     name = "CurlPlusPlus",
-    visibility
+    visibility = ["//visibility:public"],
 )
