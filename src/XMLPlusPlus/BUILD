@@ -4,5 +4,6 @@ cc_library(
     visibility = ["//visibility:public"],
     hdrs = [
             "CatchConvertError.h",
+            "CatchConvertError.cpp",
         ],
 )
