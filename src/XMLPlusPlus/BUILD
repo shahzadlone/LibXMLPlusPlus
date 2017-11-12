@@ -5,5 +5,6 @@ cc_library(
     hdrs = [
             "CatchConvertError.h",
             "CatchConvertError.cpp",
+            "PrintXML.cpp",
         ],
 )
