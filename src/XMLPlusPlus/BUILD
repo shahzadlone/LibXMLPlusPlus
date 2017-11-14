@@ -6,5 +6,6 @@ cc_library(
             "CatchConvertError.h",
             "CatchConvertError.cpp",
             "PrintXML.cpp",
+            "PrintXML.h",
         ],
 )
