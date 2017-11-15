@@ -5,4 +5,7 @@ cc_library(
     hdrs = [
             "CatchConvertError.h",
         ],
+    srcs = [
+        "",
+    ],
 )
