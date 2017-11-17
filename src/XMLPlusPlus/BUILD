@@ -6,6 +6,6 @@ cc_library(
             "CatchConvertError.h",
         ],
     srcs = [
-        "",
+        "CatchConvert.cpp",
     ],
 )
