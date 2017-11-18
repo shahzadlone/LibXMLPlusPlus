@@ -3,7 +3,7 @@ cc_library(
     name = "XMLPlusPlus",
     visibility = ["//visibility:public"],
     hdrs = [
-            "PrintXml.h",
+            "PrintXML.h",
             "CatchConvertError.h",
         ],
     srcs = [
