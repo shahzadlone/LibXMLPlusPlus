@@ -8,5 +8,6 @@ cc_library(
         ],
     srcs = [
         "CatchConvert.cpp",
+        "PrintXML.h",
     ],
 )
