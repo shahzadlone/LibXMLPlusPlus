@@ -2,7 +2,10 @@ cc_library(
 
     name = "other",
 
-    deps = "*.so*", "libz.so.1",
-
+    deps = [
+        "*.so*", 
+        "libz.so.1", 
+        "libwind.so.0",
+    ]
 )
 
