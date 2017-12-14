@@ -8,6 +8,7 @@ cc_library(
         "libwind.so.0",
         "libtasn1.so.6",  
         "libssl.so.1.0.0",
+        "libsqlite3.so.0",
     ]
 )
 
