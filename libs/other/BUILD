@@ -9,6 +9,7 @@ cc_library(
         "libtasn1.so.6",  
         "libssl.so.1.0.0",
         "libsqlite3.so.0",
+        "libsigc-2.0.so.0",
     ]
 )
 
