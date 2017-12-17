@@ -11,6 +11,7 @@ cc_library(
         "libsqlite3.so.0",
         "libsigc-2.0.so.0",
         "libsasl2.so.2",
+        "librtmp.so.0",
     ]
 )
 
