@@ -12,6 +12,7 @@ cc_library(
         "libsigc-2.0.so.0",
         "libsasl2.so.2",
         "librtmp.so.0",
+        "libroken.so.18",
     ]
 )
 
