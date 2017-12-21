@@ -14,6 +14,7 @@ cc_library(
         "librtmp.so.0",
         "libroken.so.18",
         "libresolv.so.2",
+        "libpthread.so.0",
     ]
 )
 
