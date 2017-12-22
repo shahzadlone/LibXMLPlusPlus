@@ -15,6 +15,7 @@ cc_library(
         "libroken.so.18",
         "libresolv.so.2",
         "libpthread.so.0",
+        "libpcre.so.3",
     ]
 )
 
