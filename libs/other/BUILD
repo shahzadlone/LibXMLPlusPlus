@@ -16,6 +16,7 @@ cc_library(
         "libresolv.so.2",
         "libpthread.so.0",
         "libpcre.so.3",
+        "libp11-kit.so.0",
     ]
 )
 
