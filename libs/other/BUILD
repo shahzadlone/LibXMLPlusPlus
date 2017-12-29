@@ -17,6 +17,8 @@ cc_library(
         "libpthread.so.0",
         "libpcre.so.3",
         "libp11-kit.so.0",
+        "liblzma.so.5", 
+        "libm.so.6",
     ]
 )
 
