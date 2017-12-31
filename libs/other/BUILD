@@ -19,6 +19,7 @@ cc_library(
         "libp11-kit.so.0",
         "liblzma.so.5", 
         "libm.so.6",
+        "libldap_r-2.4.so.2",
     ]
 )
 
