@@ -20,6 +20,7 @@ cc_library(
         "liblzma.so.5", 
         "libm.so.6",
         "libldap_r-2.4.so.2",
+        "liblber-2.4.so.2",
     ]
 )
 
