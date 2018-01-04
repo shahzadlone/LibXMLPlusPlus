@@ -21,6 +21,8 @@ cc_library(
         "libm.so.6",
         "libldap_r-2.4.so.2",
         "liblber-2.4.so.2",
+        "libkrb5support.so.0",
+            
     ]
 )
 
