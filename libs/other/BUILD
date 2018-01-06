@@ -24,8 +24,7 @@ cc_library(
         "libkrb5support.so.0",
         "libkrb5.so.3",
         "libkrb5.so.26",
-
-            
+        "libkeyutils.so.1",     
     ]
 )
 
