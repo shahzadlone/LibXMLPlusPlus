@@ -27,6 +27,7 @@ cc_library(
         "libkeyutils.so.1",  
         "libk5crypto.so.3",
         "libidn.so.11",
+        "libhx509.so.5",
     ]
 )
 
