@@ -28,6 +28,7 @@ cc_library(
         "libk5crypto.so.3",
         "libidn.so.11",
         "libhx509.so.5",
+        "libheimntlm.so.0",
     ]
 )
 
