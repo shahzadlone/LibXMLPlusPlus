@@ -30,6 +30,7 @@ cc_library(
         "libhx509.so.5",
         "libheimntlm.so.0",
         "libheimbase.so.1",
+        "libhcrypto.so.4",
     ]
 )
 
