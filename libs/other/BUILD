@@ -31,6 +31,7 @@ cc_library(
         "libheimntlm.so.0",
         "libheimbase.so.1",
         "libhcrypto.so.4",
+        "libgssapi_krb5.so.2",
     ]
 )
 
