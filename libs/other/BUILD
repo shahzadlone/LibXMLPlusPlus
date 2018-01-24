@@ -32,6 +32,7 @@ cc_library(
         "libheimbase.so.1",
         "libhcrypto.so.4",
         "libgssapi_krb5.so.2",
+        "libgssapi.so.3",   
     ]
 )
 
