@@ -33,6 +33,7 @@ cc_library(
         "libhcrypto.so.4",
         "libgssapi_krb5.so.2",
         "libgssapi.so.3",   
+        "libgpg-error.so.0",
     ]
 )
 
