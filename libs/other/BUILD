@@ -34,6 +34,7 @@ cc_library(
         "libgssapi_krb5.so.2",
         "libgssapi.so.3",   
         "libgpg-error.so.0",
+        "libgobject-2.0.so.0",
     ]
 )
 
