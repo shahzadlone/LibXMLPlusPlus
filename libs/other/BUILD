@@ -35,6 +35,7 @@ cc_library(
         "libgssapi.so.3",   
         "libgpg-error.so.0",
         "libgobject-2.0.so.0",
+        "libgnutls.so.26",
     ]
 )
 
