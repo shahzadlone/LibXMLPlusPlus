@@ -38,6 +38,7 @@ cc_library(
         "libgnutls.so.26",
         "libgmodule-2.0.so.0",
         "libgcrypt.so.11",
+        "libgcc_s.so.1",
     ]
 )
 
