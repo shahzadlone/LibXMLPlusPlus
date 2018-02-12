@@ -40,6 +40,7 @@ cc_library(
         "libgcrypt.so.11",
         "libgcc_s.so.1",
         "libffi.so.6",
+        "libdl.so.2",
     ]
 )
 
