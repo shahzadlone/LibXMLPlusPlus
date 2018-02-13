@@ -41,6 +41,7 @@ cc_library(
         "libgcc_s.so.1",
         "libffi.so.6",
         "libdl.so.2",
+        "libcrypto.so.1.0.0",
     ]
 )
 
