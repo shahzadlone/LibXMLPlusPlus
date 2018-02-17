@@ -42,6 +42,7 @@ cc_library(
         "libffi.so.6",
         "libdl.so.2",
         "libcrypto.so.1.0.0",
+        "libcrypt.so.1",
         "libcom_err.so.2",
     ]
 )
